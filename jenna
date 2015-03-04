@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Mora High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2924222946167,
+          45.878626251712824
+        ]
+      }
+    }
+  ]
+}
